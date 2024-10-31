@@ -1,0 +1,10 @@
+train_params:
+  batch_size: 32
+  learning_rate: 0.001
+  num_epochs: 10
+  emb_dim: 50
+  num_hidden_nodes: 64
+  num_output_nodes: 1
+  num_layer: 2
+  bidirection: True
+  dropout: 0.2
