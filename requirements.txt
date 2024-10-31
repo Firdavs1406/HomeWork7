@@ -1,0 +1,25 @@
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# NLP Tools
+nltk>=3.8.1
+gensim>=4.3.0
+datasets>=2.12.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# Logging
+loguru>=0.7.0
+
+# Development Tools
+flake8>=6.0.0
